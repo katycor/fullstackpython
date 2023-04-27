@@ -1,0 +1,18 @@
+Crea un nuevo repositorio haciendo clic en el botón de "Nuevo repositorio" en la página web de GitHub
+
+Nombrarlo FULLSTACKPYTHON,seleccionar la opcion "README", y haz clic en el botón "Crear Repositorio".
+
+Clonar el repositorio en la computadora con git clone, este comando realizará una copia local del repositorio
+
+Buscar el repositorio en la computadora FULLSTACKPYTHON
+
+Cuando agreguemos archivos en la carpeta (computadora) y subirlos a GITHUB , tenemos que realizar 4 pasos: 
+
+git status : sirve para revisar lor archivos modificados
+git add contenidos.txt y git add ejercicio1.txt : es para agregar los 2 archivos
+git commit -m "se agregaron archivos" : coloca comentarios
+git remote origin : para poder enviar los archivos a Git HUb , tenemos que saber el nombre origin , 
+git push origin main
+
+https://github.com/katycor/fullstackpython.git
+
